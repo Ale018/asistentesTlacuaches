@@ -1,6 +1,19 @@
-#pie{
+.titulo-final{
     text-align: center;
-    padding: 20px;
-    background: #2A4DBD;
-    color: white;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+}
+
+.titulo-final{
+    font-size: 20px;
+    background-color: black;
+}
+footer{
+    background: #000000;
+    padding: 0px 0 20px 0;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+
 }

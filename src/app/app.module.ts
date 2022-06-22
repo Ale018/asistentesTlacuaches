@@ -11,6 +11,10 @@ import { NavegacionComponent } from './components/navegacion/navegacion.componen
 import { PiePaginaComponent } from './components/pie-pagina/pie-pagina.component';
 import { RegistroComponent } from './components/registro/registro.component';
 import { HomeComponent } from './components/home/home.component';
+import { DesplazamientoComponent } from './components/desplazamiento/desplazamiento.component';
+import { AsistenteAsistenciaComponent } from './components/asistente-asistencia/asistente-asistencia.component';
+import { AsistenteEvaluarComponent } from './components/asistente-evaluar/asistente-evaluar.component';
+import { InscripcionComponent } from './components/inscripcion/inscripcion.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +26,11 @@ import { HomeComponent } from './components/home/home.component';
     NavegacionComponent,
     PiePaginaComponent,
     RegistroComponent,
-    HomeComponent
+    HomeComponent,
+    DesplazamientoComponent,
+    AsistenteAsistenciaComponent,
+    AsistenteEvaluarComponent,
+    InscripcionComponent
   ],
   imports: [
     BrowserModule,
