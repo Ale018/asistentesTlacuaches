@@ -1,24 +1,26 @@
 #barra{
     display: block;
     width: 280px;
-    margin-left: 1075px;
-    margin-bottom: 0px;
+    margin-left: 10px;
     height: 550px;
     text-align:left;
     position: fixed;
-    margin-bottom: 0px;
+    float: left;
+  
     margin-top: 30px;
-    
-
+    background-color: rgba(116, 116, 219, 0.521);
+}
+h3{
+    text-align: center;
 }
 #ix{
     width: 130px;
     height: 130px;
     margin-top: 15px;
     margin-bottom: 34px;
-    margin-left: 50px;
+    margin-left: 77px;
     margin-right: 50px;
-    
+    text-transform:capitalize;
 }
 header {
     width: 100%;

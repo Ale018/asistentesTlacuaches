@@ -1,0 +1,22 @@
+#agrupar {
+    margin-left: 304px;
+    text-transform: capitalize;
+    background-color: turquoise;
+    width: 970px;
+    text-align: left;
+}
+
+.contenedor {
+    padding: 10px;
+    width: 90%;
+    max-width: 1030px;
+    margin: auto;
+    background-color: turquoise;
+}
+
+#forms {
+    margin-left: 304px;
+    text-transform: capitalize;
+    width: 970px;
+    text-align: left;
+}

@@ -1,4 +1,9 @@
 nav{
     background-color:indigo;
     color: white;
+    text-transform:capitalize;
+}
+#mynavbar{
+    text-align: center;
+    color: white;
 }
